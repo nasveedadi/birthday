@@ -22,7 +22,7 @@ Simply open the `index.html` file in a web browser to view the birthday card. Th
 
 ## Preview:
 
-A live preview of the birthday card can be found [here](#) (insert link if applicable).
+A live preview of the birthday card can be found https://nasveedadi.github.io/birthday/.
 
 Feel free to customize and share this birthday card to celebrate special occasions with your loved ones! If you have any suggestions or improvements, please feel free to contribute.
 
